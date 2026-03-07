@@ -11,13 +11,18 @@ I'm Arjun Chati! Welcome to my GitHub profile.
 
 ## 🛠️ Featured Projects
 
+- ⚙️ **[Custom-32bit-RISC-Processor](https://github.com/ArjunChati/Custom-32bit-RISC-Processor)**: A custom 32-bit RISC processor implementation (Verilog).
 - 🎛️ **[AudioEqPlugin](https://github.com/ArjunChati/AudioEqPlugin)**: Simple Audio Equalizer plugin using JUCE (C++).
 - 🎚️ **[SimpleEQ](https://github.com/ArjunChati/SimpleEQ)**: My first JUCE VST plugin (C++).
 - 💻 **[3DS-CustomOS](https://github.com/ArjunChati/3DS-CustomOS)**: A custom operating system project for the 3DS (C++).
 - 🔌 **[JUCEprojects](https://github.com/ArjunChati/JUCEprojects)**: Collection of JUCE Plugins (C++).
-- ⚙️ **[Custom-32bit-RISC-Processor](https://github.com/ArjunChati/Custom-32bit-RISC-Processor)**: A custom 32-bit RISC processor implementation (Verilog).
 
 <br>
 
 📈 **GitHub Stats:**
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunChati&show_icons=true&theme=radical)
+
+<div align="center">
+  <a href="https://github.com/ArjunChati">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArjunChati&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Arjun's GitHub Stats" />
+  </a>
+</div>
