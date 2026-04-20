@@ -20,22 +20,22 @@ I am an **Electrical and Computer Engineering** student at **The University of T
 
 ## 🚀 About Me
 
-* 🏎️ **Hardware Lead**: I lead the Hardware Research & Design team at **Texas Aerial Robotics**, designing power distribution PCBs and high-current trigger circuits for UAVs.
-* 🔬 **Researcher**: Undergraduate Researcher in **Dr. Deji Akinwande’s lab**, focusing on the development of wearable RF sensors.
-* 🎵 **Audio Enthusiast**: I combine my ECE background with music production to build custom mixed-signal EQ modules and JUCE-based plugins.
-* 🛰️ **Incoming Intern**: I’ll be joining **Cirrus Logic** as a Validation Engineering Intern for Summer 2026.
-* 📫 **Connect**: Let's chat about silicon, signal integrity, or music gear on **[LinkedIn](https://www.linkedin.com/in/arjun-chati/)**!
+*  **Hardware Lead**: I lead the Hardware Research & Design team at **Texas Aerial Robotics**, designing power distribution PCBs and high-current trigger circuits for UAVs.
+*  **Researcher**: Undergraduate Researcher in **Dr. Deji Akinwande’s lab**, focusing on the development of wearable RF sensors.
+*  **Audio Enthusiast**: I combine my ECE background with music production to build custom mixed-signal EQ modules and JUCE-based plugins.
+*  **Incoming Intern**: I’ll be joining **Cirrus Logic** as a Validation Engineering Intern for Summer 2026.
+*  **Connect**: Let's chat about silicon, signal integrity, or music gear on **[LinkedIn](https://www.linkedin.com/in/arjun-chati/)**!
 
 ## 🛠️ Featured Projects
 
 ### ⚡ Hardware & Embedded
-* 🖥️ **[Intel N100 Carrier Board](https://github.com/ArjunChati)**: A high-speed x86 carrier board designed in KiCad, featuring USB 3.0, HDMI, and Ethernet with 90 Ohm differential impedance routing.
-* ⚙️ **[Custom 32-bit RISC Processor](https://github.com/ArjunChati/Custom-32bit-RISC-Processor)**: An RTL implementation in Verilog featuring a multi-cycle FSM, custom ISA, and a 27-opcode ALU.
-* 🎮 **[Embedded Game Platform](https://github.com/ArjunChati)**: An ARM-based handheld device built on the MSPM0+, featuring custom PCB power sequencing and SPI/I²C peripheral integration.
+*  **[Intel N100 Carrier Board](https://github.com/ArjunChati)**: A high-speed x86 carrier board designed in KiCad, featuring USB 3.0, HDMI, and Ethernet with 90 Ohm differential impedance routing.
+*  **[Custom 32-bit RISC Processor](https://github.com/ArjunChati/Custom-32bit-RISC-Processor)**: An RTL implementation in Verilog featuring a multi-cycle FSM, custom ISA, and a 27-opcode ALU.
+*  **[Embedded Game Platform](https://github.com/ArjunChati)**: An ARM-based handheld device built on the MSPM0+, featuring custom PCB power sequencing and SPI/I²C peripheral integration.
 
 ### 🎛️ Audio & Software
-* 🎸 **[Mixed-Signal EQ Module](https://github.com/ArjunChati)**: A hardware-software hybrid audio processor using a 5-bit DAC/ADC and MOSFET-based RLC filters for real-time music production.
-* 🔌 **[AudioEqPlugin](https://github.com/ArjunChati/AudioEqPlugin)**: A professional-grade Equalizer VST built using the **JUCE** framework in C++.
-* 💻 **[3DS-CustomOS](https://github.com/ArjunChati/3DS-CustomOS)**: Exploring low-level systems programming through a custom operating system project.
+*  **[Mixed-Signal EQ Module](https://github.com/ArjunChati)**: A hardware-software hybrid audio processor using a 5-bit DAC/ADC and MOSFET-based RLC filters for real-time music production.
+* **[AudioEqPlugin](https://github.com/ArjunChati/AudioEqPlugin)**: A professional-grade Equalizer VST built using the **JUCE** framework in C++.
+*  **[3DS-CustomOS](https://github.com/ArjunChati/3DS-CustomOS)**: Exploring low-level systems programming through a custom operating system project.
 
 ---
