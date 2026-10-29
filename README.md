@@ -1,5 +1,9 @@
 # Hi there, I'm Arjun Chati!
 
+<p align="center"><a href="https://arjunchati.github.io/"><img src="./heat-chip.svg" alt="Animated ASCII chip package with a live heat map" width="100%"></a></p>
+
+<p align="center"><sub>A 2.5D package (CPU + GPU + 4x HBM) running a live thermal map. Explore the interactive terminal version at <a href="https://arjunchati.github.io/">arjunchati.github.io</a>.</sub></p>
+
 ### Hardware & EDA
 ![Cadence](https://img.shields.io/badge/Cadence_Virtuoso_%26_Innovus-A6192E?style=for-the-badge&logoColor=white)
 ![Synopsys](https://img.shields.io/badge/Synopsys_HSPICE_%26_PrimeTime-5A2D82?style=for-the-badge&logoColor=white)
@@ -50,4 +54,4 @@ I am an **Electrical and Computer Engineering** student at **The University of T
 
 ---
 
-Let's chat about silicon, signal integrity, or music gear on **[LinkedIn](https://www.linkedin.com/in/arjun-chati/)**!
+Let's chat about silicon, signal integrity, or music gear on **[LinkedIn](https://www.linkedin.com/in/arjun-chati/)**, or poke around my terminal-style site at **[arjunchati.github.io](https://arjunchati.github.io/)**!
