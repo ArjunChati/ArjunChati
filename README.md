@@ -41,7 +41,7 @@ I am an **Electrical and Computer Engineering** student at **The University of T
 
 ### Silicon & Architecture
 * **16-bit ALU in 45 nm Standard Cells** (Oct 2026): A 22-operation Kogge-Stone ALU built only from NAND2/NAND3/AOI21/INV cells in Cadence Virtuoso/Innovus and Synopsys PrimeTime. Cut post-APR delay **41%** (1.20 → 0.70 ns) through a radix-3 prefix tree and re-floorplanning; verified against a Python golden model across 720,896 vectors with 0 errors.
-* **[CPU Cycle-Accurate Model](https://github.com/ArjunChati/CPUcycleaccurateModel)** and **[Prefetcher Performance Correlation](https://github.com/ArjunChati/Prefetcher-Performance-Correlation)**: Ongoing performance-modeling experiments in C/Python.
+* **[gem5 Prefetcher Lab](https://github.com/ArjunChati/Prefetcher-Performance-Correlation)** (in progress): Building hardware data prefetchers in gem5 for an AArch64 out-of-order core: a next-line and a per-PC stride prefetcher benchmarked against gem5's stock stride prefetcher, then signature-path and pointer-aware prefetchers for irregular access patterns, measured on coverage, accuracy, timeliness and speedup.
 * **[Custom 32-bit RISC Processor](https://github.com/ArjunChati/Custom-32bit-RISC-Processor)**: An RTL implementation in Verilog featuring a multi-cycle FSM, custom ISA, and a 27-opcode ALU.
 
 ### Hardware & RF
